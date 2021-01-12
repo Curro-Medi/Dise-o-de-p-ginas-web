@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+body {
+	background-image: url("1.jfif ");
+} 
+</style>
+</head>
+
+<body>
+<form action="1.php" method="post" >
+<fieldset>
+ <fieldset>
+  <legend>Datos personales</legend>
+  <p>Nombre: <input type="text" name="nombre" size="30"placeholder="Escriba su nombre"></p>
+   <p>Apellidos: <input type="text" name="apellido" size="30"placeholder="Introduzca sus apellidos"></p>
+    <p>Fecha de nacimiento: <input type="text" name="fecha de nacimiento" size="30"placeholder="Escriba su fecha de nacimiento"></p>
+	 <p>E-mail: <input type="text" name="correo" size="30"placeholder="Introduzca su e-mail"></p>
+	  <p>Número de teléfono: <input type="text" name="numero de telefono" size="30"placeholder="Escriba su número de teléfono"></p>
+	   <p>Sexo:
+  <input type="radio" name="hm" value="h" required> Hombre
+  <input type="radio" name="hm" value="m"> Mujer
+  <input type="radio" name="hm" value="m">Si por favor
+</p>
+
+	  
+  <p>Edad: <input type="number" name="edad"></p>
+
+
+
+
+<datalist id="lista-rango">
+  <option value="1" label="Malo"></option>
+  <option value="2" label="Regular"></option>
+  <option value="3" label="Bueno"></option>
+</datalist>
+
+  <input type="button" value="Este botón no hace nada">
+<p><textarea name="texto" rows="4" cols="40" placeholder="Escribe aqui lo que te apetezca"></textarea></p>
+
+¿Como de buena es la encuesta? (Buena, Buenísima, La mejor):
+<input type="range" name="rango"
+  min="1" max="3" list="lista-rango">
+
+ <p>
+    <input type="submit" value="Enviar">
+   <input type="reset" value="Borrar">
+  </p>
+</fieldset>
+</form>
+</body>
+</html>
