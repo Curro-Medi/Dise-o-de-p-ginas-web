@@ -1,0 +1,107 @@
+html
+body {
+  display: flex;
+  min-height: 30vh;
+  margin: 100;
+ }
+h1 {
+  margin: auto;
+  border: 5px solid black;
+ }
+
+
+#logo {position:absolute; width:30px; height:10px; top: 200px; left: 776px;}
+#logo1 {position:absolute; width:200px; height:300px; top: 260px; left: 830px;}
+#logo2 {position:absolute; width:30px; height:10px; top: 180px; left: 136px;}
+
+#juan {position:absolute; width:700px; height:890px; top: 150px; left: -700px;}
+#juan1 {position:absolute; width:700px; height:890px; top: 350px; left: -620px;}
+#juan2 {position:absolute; width:2000px; height:3000px; top: 200px; left: -660px;}
+
+#profe  {position:absolute; width:30px; height:10px; top: 203px; left: 110px;}
+#profe1 {position:absolute; width:270px; height:300px; top: 262px; left: 180px;}
+#profe2  {position:absolute; width:700px; height:890px; top: 169px; left: 20px;}
+
+#leer  {position:absolute; width:578px; height:700px; top: 380px; left: 550px;}
+#leer1 {position:absolute; width:270px; height:300px; top: 440px; left: 620px;}
+#leer2  {position:absolute; width:700px; height:890px; top: 150px; left: 60px;}
+#leer3  {position:absolute; width:578px; height:700px; top: -60px; left: 100px;}
+
+
+
+#ed  {position:absolute; width:200px; height:300px; top: 200px; left: -700px;}
+#ed1 {position:absolute; width:270px; height:300px; top: 300px; left: -640px;}
+#ed2  {position:absolute; width:578px; height:700px; top: 120px; left: 100px;}
+
+
+#hal  {position:absolute; width:500px; height:500px; top: 300px; left: 100px;}
+#hal1 {position:absolute; width:270px; height:380px; top: 380px; left: 200px;}
+#hal2  {position:absolute; width:700px; height:890px; top: 150px; left: 200px;}
+
+
+#pint  {position:absolute; width:300px; height:100px; top: 420px; left: 440px;}
+#pint1 {position:absolute; width:300px; height:100px; top: 575px; left: 430px;}
+#pint2  {position:absolute; width:300px; height:300px; top: 590px; left: 550px;;}
+
+
+
+#compi {position:absolute; width:2000px; height:3000px; top: 620px; left: 70px;}
+#compi1 {position:absolute; width:2000px; height:3000px; top: 680px; left: 130px;}
+#compi2  {position:absolute; width:2000px; height:3000px; top: 170px; left: 70px;}
+
+
+#car  {position:absolute; width:2000px; height:3000px; top: 550px; left: -800px;}
+#car1  {position:absolute; width:2000px; height:3000px; top: 500px; left: -500px;}
+#car2  {position:absolute; width:2000px; height:3000px; top: 620px; left: -750px;}
+#car3  {position:absolute; width:2000px; height:3000px; top: 170px; left: 60px;}
+
+
+
+#cutre {position:absolute; width:2000px; height:3000px; top: -1040px; left: -40px;}
+#cutre1 {position:absolute; width:2000px; height:3000px; top: -900px; left: 70px;}
+
+
+
+#fut  {position:absolute; width:2000px; height:3000px; top: 1300px; left: 500px;}
+#fut1 {position:absolute; width:2000px; height:3000px; top: 1190px; left: 1000px;}
+#fut2  {position:absolute; width:2000px; height:3000px; top: 1350px; left: 550px;}
+#fut3  {position:absolute; width:2000px; height:3000px; top: 100px; left: 200px;}
+
+
+#want  {position:absolute; width:2000px; height:3000px; top: 600px; left: -710px;}
+#want1 {position:absolute; width:2000px; height:3000px; top: 670px; left: -650px;}
+#want2  {position:absolute; width:2000px; height:3000px; top: 280px; left: 300px;}
+#want3  {position:absolute; width:2000px; height:3000px; top: 230px; left: 250px;}
+
+
+#pay  {position:absolute; width:2000px; height:3000px; top: 800px; left: 800px;}
+#pay1 {position:absolute; width:2000px; height:3000px; top: 750px; left: 820px;}
+#pay2  {position:absolute; width:2000px; height:3000px; top: 900px; left: 900px;}
+#pay3  {position:absolute; width:2000px; height:3000px; top: 250px; left: 150px;}
+
+
+#tran  {position:absolute; width:2000px; height:3000px; top: 700px; left: -510px;}
+#tran1 {position:absolute; width:2000px; height:3000px; top: 700px; left: -530px;}
+#tran2  {position:absolute; width:2000px; height:3000px; top: 800px; left: -410px;}
+#tran3  {position:absolute; width:2000px; height:3000px; top: 230px; left: 0px;}
+
+
+#ros  {position:absolute; width:2000px; height:3000px; top: 900px; left: 500px;}
+#ros1 {position:absolute; width:2000px; height:3000px; top: 900px; left: 500px;}
+#ros2  {position:absolute; width:2000px; height:3000px; top: 970px; left: 600px;}
+#ros3  {position:absolute; width:2000px; height:3000px; top: 300px; left: 100px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
